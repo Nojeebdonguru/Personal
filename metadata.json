@@ -1,0 +1,5 @@
+{
+  "name": "Mosque Finder",
+  "description": "Find mosques near you using zip code or GPS. View prayer times, navigate with Google Maps, and explore community activities.",
+  "requestFramePermissions": ["geolocation"]
+}
